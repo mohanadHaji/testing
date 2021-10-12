@@ -1,6 +1,0 @@
-this added on a other branh
-<<<<<<< HEAD
-asss
-=======
-haha
->>>>>>> ed168003ebd974e353437ced2fbb34fdb55457cd
