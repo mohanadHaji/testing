@@ -1,6 +1,2 @@
 this added on a other branh
-<<<<<<< HEAD
-asdc
-=======
-xxc
->>>>>>> 9949761268350a0c2d3ded0f90d1ac5e7ef4e79d
+haha
